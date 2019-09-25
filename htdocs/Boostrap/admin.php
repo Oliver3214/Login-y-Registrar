@@ -14,8 +14,7 @@ require_once '\xampp\htdocs\Boostrap\config.php';
 				
 				<p title="" align="center">
 					boton de prueba 	
-				</p>
-						
+				</p>	
 					</article>
 				</div> 
 			</div>
